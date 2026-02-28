@@ -14,8 +14,8 @@ Build bots and integrations with our Python SDK. Extend Wokki Chat with custom f
 
 📚 **Documentation:** [chat.wokki20.nl/developer/docs/python](https://chat.wokki20.nl/developer/docs/python/)
 
-### [Wokki-Chat-Android](https://github.com/Wokki-Chat/Wokki-Chat-Android)
-Android application for Wokki Chat (coming soon).
+### [Wokki-Chat-Mobile](https://github.com/Wokki-Chat/Wokki-Chat-Mobile)
+Android and iOS application for Wokki Chat (coming soon).
 
 ## Why Wokki Chat?
 
