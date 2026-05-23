@@ -1,3 +1,18 @@
+> [!WARNING]
+> ## Archive Notice
+>
+> Wokki Chat and all related projects are now officially archived.
+>
+> The platform, website, and all services have been permanently shut down and are no longer accessible.
+>
+> This repository is preserved for historical reference only and will not receive any updates, bug fixes, or maintenance.
+>
+> Issues and pull requests are no longer being reviewed or accepted.
+>
+> Feel free to fork any project if you want to continue development independently.
+
+---
+
 # Wokki Chat
 
 **Connect with friends, Share your world & Make every conversation count**
